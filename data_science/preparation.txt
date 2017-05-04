@@ -1,0 +1,33 @@
+IDEA: 
+Create an app that determines the ranking of caregivers based on satisfication
+by a given cohort. Let's say a doctor is most popular among males ages 18-25, but least popular for females ages 70-85. 
+
+This will help future patients get treated by the right doctor. 
+
+Caveats: 
+We need to find a way to help new doctors from getting off the ground. Would
+like to conduct a multi-arm bandit algorithm or a recommendation system to 
+allow that to happend. 
+
+Experiment Design: 
+A/B testing to check the new system. 
+Multiarm bandit to check the new system. 
+
+Questions: 
+Min. number of doctors in a practice that is required for this to work?
+Will it work for specialized doctors? 
+Min. number of patients that you need to get enough data? 
+Do you have to use PII (personally identifying information) in order for this to work?
+-Can you tell with just age, insurance policy, gender?
+What happens when your model is wrong? Do you have to catch that so that they don't see him more than once?
+How long does it take for it to be up and running for a brand new practice? 
+-Okay to say that this works well with general practices. 
+What's the actual computational cost of this? Unfortunately, this requires info that I don't really know. Could say that it's really cheap. 
+What do we do for patients who do not like any of their doctors?!
+
+
+
+
+
+
+austin_db.apply(lambda row: 1 if row['average'] >= 0.5 else 0, axis=1)

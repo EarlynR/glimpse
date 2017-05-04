@@ -1,0 +1,26 @@
+
+First Graph:
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~EarlynR/51.embed"></iframe>
+
+<div>
+    <a href="https://plot.ly/~EarlynR/51/?share_key=fcIn32TANe80MLxY6T1FWc" target="_blank" title="grouped-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/51.png?share_key=fcIn32TANe80MLxY6T1FWc" alt="grouped-bar" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+</div>
+
+
+Second Graph:
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~EarlynR/54.embed"></iframe>
+
+<div>
+    <a href="https://plot.ly/~EarlynR/54/?share_key=fmeKNcUBEsVNirbAFhMd3m" target="_blank" title="angled-text-bar" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/54.png?share_key=fmeKNcUBEsVNirbAFhMd3m" alt="angled-text-bar" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+</div>
+
+
+Third Graph:
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~EarlynR/56.embed"></iframe>
+
+<div>
+    <a href="https://plot.ly/~EarlynR/56/?share_key=ihQrmLOZHDphoTfTnCqGsl" target="_blank" title="Patient_Satisfaction" style="display: block; text-align: center;"><img src="https://plot.ly/~EarlynR/56.png?share_key=ihQrmLOZHDphoTfTnCqGsl" alt="Patient_Satisfaction" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plot.ly/404.png';" /></a>
+</div>
